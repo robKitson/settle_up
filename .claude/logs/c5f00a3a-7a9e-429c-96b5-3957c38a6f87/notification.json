@@ -1,0 +1,18 @@
+[
+  {
+    "session_id": "c5f00a3a-7a9e-429c-96b5-3957c38a6f87",
+    "transcript_path": "/Users/robkitson/.claude/projects/-Users-robkitson-Projects-settle-up/c5f00a3a-7a9e-429c-96b5-3957c38a6f87.jsonl",
+    "cwd": "/Users/robkitson/Projects/settle_up",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "c5f00a3a-7a9e-429c-96b5-3957c38a6f87",
+    "transcript_path": "/Users/robkitson/.claude/projects/-Users-robkitson-Projects-settle-up/c5f00a3a-7a9e-429c-96b5-3957c38a6f87.jsonl",
+    "cwd": "/Users/robkitson/Projects/settle_up",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  }
+]
